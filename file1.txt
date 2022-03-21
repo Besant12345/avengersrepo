@@ -1,0 +1,2 @@
+this is the demo for Java App
+this is demo for devOps platfrom
